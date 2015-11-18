@@ -1,0 +1,17 @@
+bin/
+gen/
+*.class
+build/
+.gradle/
+.DS_Store
+.idea/
+*.iml
+local.properties
+app/app.iml
+#app/src/main/assets/migrations
+app/app-release.apk
+app/app-debug.apk
+dump.rdb
+app/manifest*report.txt
+app/*.apk
+.svn/*
